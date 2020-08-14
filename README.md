@@ -1,5 +1,5 @@
 # HackThis2020_DataScience
-DataScience challenge for HackThis2020
+Data Visualization (Data Science) Challenge for HackThis2020
 
 Because of the emergemence of the COVID-19 pandemic, students were forced to adapt to virtual learning. Studying past data from a virtual learning environment can help teachers identify which students are more at risk of withdrawing or failing the course in this new learning environment. Then, teachers are able to give additional support to these students, who might fail or withdraw without support.
 
